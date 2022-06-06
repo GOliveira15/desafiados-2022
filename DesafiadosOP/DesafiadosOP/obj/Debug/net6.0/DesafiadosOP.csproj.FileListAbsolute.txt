@@ -1,0 +1,15 @@
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\bin\Debug\net6.0\DesafiadosOP.exe
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\bin\Debug\net6.0\DesafiadosOP.deps.json
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\bin\Debug\net6.0\DesafiadosOP.runtimeconfig.json
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\bin\Debug\net6.0\DesafiadosOP.dll
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\bin\Debug\net6.0\DesafiadosOP.pdb
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\DesafiadosOP.csproj.AssemblyReference.cache
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\DesafiadosOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\DesafiadosOP.AssemblyInfoInputs.cache
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\DesafiadosOP.AssemblyInfo.cs
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\DesafiadosOP.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\DesafiadosOP.dll
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\refint\DesafiadosOP.dll
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\DesafiadosOP.pdb
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\DesafiadosOP.genruntimeconfig.cache
+C:\Users\gabriel.oliveira\Documents\git\desafiados-2022\DesafiadosOP\DesafiadosOP\obj\Debug\net6.0\ref\DesafiadosOP.dll
